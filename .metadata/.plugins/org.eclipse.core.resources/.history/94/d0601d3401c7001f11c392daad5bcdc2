@@ -1,0 +1,13 @@
+package projects.service;
+
+import projects.dao.ProjectDao;
+import projects.entity.Projects;
+
+
+public class ProjecService {
+	private ProjectDao projectDao = new ProjectDao();
+	
+	public Projects addProject(Projects projects) {
+		return projectDao.insertProjects(projects);
+	}
+}
