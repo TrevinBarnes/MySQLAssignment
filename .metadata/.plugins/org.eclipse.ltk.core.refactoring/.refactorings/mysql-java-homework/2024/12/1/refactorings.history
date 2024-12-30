@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;mysql-java-homework/src/main/resources/project_schema.sql&apos; to &apos;projects_schema.sql&apos;" description="Rename resource &apos;project_schema.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/project_schema.sql" name="projects_schema.sql" stamp="1735576989737" updateReferences="true"/>
+</session>
